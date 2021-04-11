@@ -1,0 +1,5 @@
+Fórmula para Limitar um Número de Cadastro/Banco de Dados
+
+<Código>
+=MÁXIMO(BancodeDados!A3:A99999)+1 
+’O +1 serve para o cadastro não começar do 0
