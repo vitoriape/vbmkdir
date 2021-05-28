@@ -1,27 +1,28 @@
 Attribute VB_Name = "makefolders"
-Sub makefolders()
+Sub mkfolders()
 
     Dim folders As Range '[1]
-    Dim maxRows, maxColumns, r, c As Integer
+    Dim maxRows, maxColumns, rw, cs As Integer
     
     Set folders = Selection '[2]
-    maxRows = folders.rows.Count
-    maxColumns = folders.columns.Count
+        maxRows = folders.rows.Count
+            maxColumns = folders.columns.Count
     
-    For c = 1 To maxColumns '[3]
-    r = 1
+    For cs = 1 To maxColumns '[3]
+    rw = 1
     
-    Do While r <= maxRows '[4]
-        If Len(Dir(ActiveWorkbook.Path & "\" & folders(r, c), vbDirectory)) = 0 Then
-        MkDir (ActiveWorkbook.Path & "\" & folders(r, c))
+    Do While rw <= maxRows '[4]
+        If Len(Dir(ActiveWorkbook.Path & "\" & folders(rw, cs), vbDirectory)) = 0 Then
+            MkDir (ActiveWorkbook.Path & "\" & folders(rw, cs))
         
-        On Error Resume Next
+            On Error Resume Next
+            
         End If
     
-        r = r + 1 '[5]
+        rw = rw + 1 '[5]
     
     Loop
-    Next c
+    Next cs
     
     
 '[1] - Declaração de variáveis
