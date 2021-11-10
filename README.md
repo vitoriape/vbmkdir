@@ -1,42 +1,49 @@
 <h3 align="center"> 
-Auto MKDIR
+<img alt="vmkdir banner" src="https://github.com/vitoriape/vbmkdir/blob/mkdir.vb-vpa/images/vbmkdir.banner.png" width="1000" height="200">
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitoriape/auto-mkdir">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitoriape/vbmkdir">
   
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitoriape/auto-mkdir">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitoriape/vbmkdir">
   
-  <a href="https://github.com/vitoriape/coverABNT-pdfLaTex/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vitoriape/auto-mkdir">
+  <a href="https://github.com/vitoriape/vbmkdir/blob/mkdir.vb-vpa/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg">
+  </a>
+  
+  <a href="https://github.com/vitoriape/vbmkdir/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vitoriape/vbmkdir">
   </a>
 </p>
 
 ---
 
 <p align="center">
- ◽ <a href="#About">About</a> |
- <a href="#Tools">Tools</a> |  
- <a href="#Setup">Setup</a> |
- <a href="#Author">Author</a> ◽
+ ◽ <a href="#-about">About</a> |
+ <a href="#-tools">Tools</a> |  
+ <a href="#-setup">Setup</a> |
+ <a href="#-author">Author</a> ◽
 </p>
 
 ### 📌 About
-The auto-mkdir project is an [VBA](https://docs.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office)  
-script for create folders automatically. 
+
+> [Versão em Português (pt-br)](https://github.com/vitoriape/vbmkdir/blob/mkdir.vb-vpa/LEIAME.md). <img src="https://camo.githubusercontent.com/dcc375ada213d3ac04a9781518098cd4d071601bc2ccfc120025cc32b6d38fab/68747470733a2f2f63646e2e737461746963616c792e636f6d2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f62722e737667" alt="brazil flag" width="20" height="20">
+
+This project is an [VBA](https://docs.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office) script for create folders automatically from sellected cells on Excel.
 
 ### 🛠 Tools
 
-Development of this template utilizes the tools listed below:
+Development of this script utilizes the tools listed below:
 
 - [Git](https://git-scm.com/)
 - [Excel](https://support.microsoft.com/en-us/excel)
+- [Visual Basic for Applications](https://docs.microsoft.com/pt-br/office/vba/api/overview/excel)
 
 ### 💻 Setup
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/vitoriape/auto-mkdir>
+$ git clone <https://github.com/vitoriape/vbmkdir>
 ```
 
 * <b>1. Make sure you have the developer guide activated:</b>
@@ -65,7 +72,7 @@ $ git clone <https://github.com/vitoriape/auto-mkdir>
 
 
 
-🗨 Insert a button on your spreadsheet and assign the macro (makefolder.bas).
+> 🗨 Insert a button on your spreadsheet and assign the macro (makefolder.bas).
 This way you can run the script only clicking the button. 🔰
 
 
@@ -84,15 +91,7 @@ This way you can run the script only clicking the button. 🔰
  <sub><b>Vitória Peçanha</b></sub></a> <a href="https://www.linkedin.com/in/vitoria-pecanha/" title="LinkedIn"></a>
 
 
-Feito por Vitória Peçanha 📚 Entre em contato!
+Made by Vitória Peçanha 📚 Contact me!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-pecanha/)](https://www.linkedin.com/in/vitoria-pecanha/) [![Gmail Badge](https://img.shields.io/badge/-vitoriapecanha.log@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitoriapecanha.log@gmail.com)](mailto:vitoriapecanha.log@gmail.com)
-
-
-
-
-
-
-    
-    
