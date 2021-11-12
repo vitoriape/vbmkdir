@@ -85,7 +85,7 @@ This way you can run the script only clicking the button. 🔰
 
 ### 💡 Author
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/vitoria-pecanha/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55922652?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Vitória Peçanha</b></sub></a> <a href="https://www.linkedin.com/in/vitoria-pecanha/" title="LinkedIn"></a>
