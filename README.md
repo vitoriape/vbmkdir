@@ -1,5 +1,5 @@
 <h3 align="center"> 
-<img alt="vmkdir banner" src="https://github.com/vitoriape/vbmkdir/blob/mkdir.vb-vpa/images/vbmkdir.banner.png" width="1000" height="200">
+<img alt="vmkdir banner" src="https://github.com/vitoriape/vbmkdir/blob/master/images/vbmkdir.banner.png" width="1000" height="200">
 </h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ### 📌 About
 
-> [Versão em Português (pt-br)](https://github.com/vitoriape/vbmkdir/blob/mkdir.vb-vpa/LEIAME.md). <img src="https://camo.githubusercontent.com/dcc375ada213d3ac04a9781518098cd4d071601bc2ccfc120025cc32b6d38fab/68747470733a2f2f63646e2e737461746963616c792e636f6d2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f62722e737667" alt="brazil flag" width="20" height="20">
+> [Versão em Português (pt-br)](https://github.com/vitoriape/vbmkdir/blob/master/LEIAME.md). <img src="https://camo.githubusercontent.com/dcc375ada213d3ac04a9781518098cd4d071601bc2ccfc120025cc32b6d38fab/68747470733a2f2f63646e2e737461746963616c792e636f6d2f67682f686a6e696c73736f6e2f636f756e7472792d666c6167732f6d61737465722f7376672f62722e737667" alt="brazil flag" width="20" height="20">
 
 This project is an [VBA](https://docs.microsoft.com/pt-br/office/vba/library-reference/concepts/getting-started-with-vba-in-office) script for create folders automatically from sellected cells on Excel.
 
@@ -48,27 +48,27 @@ $ git clone <https://github.com/vitoriape/vbmkdir>
 
 * <b>1. Make sure you have the developer guide activated:</b>
 
-![guiadesenvolvedor](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/guia-desenvolvedor.png)
+![guiadesenvolvedor](https://github.com/vitoriape/auto-mkdir/blob/master/guide/guia-desenvolvedor.png)
 
 
 * <b>2. Open the VisualBasic editor:</b>
 
-![visualbasic](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/visual-basic.png)
+![visualbasic](https://github.com/vitoriape/auto-mkdir/blob/master/guide/visual-basic.png)
 
 
 * <b>3. Import the file makefolder.bas:</b>
 
-![importarquivo](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/importar-arquivo.png)
+![importarquivo](https://github.com/vitoriape/auto-mkdir/blob/master/guide/importar-arquivo.png)
 
 
 * <b>4. Select cells with folder names:</b>
 
-![selecaopastas](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/selecao-itens.png)
+![selecaopastas](https://github.com/vitoriape/auto-mkdir/blob/master/guide/selecao-itens.png)
 
 
 * <b>5. Run the script:</b>
 
-![executarsub](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/executar-sub.png)
+![executarsub](https://github.com/vitoriape/auto-mkdir/blob/master/guide/executar-sub.png)
 
 
 
@@ -79,7 +79,7 @@ This way you can run the script only clicking the button. 🔰
 
 * <b>6. Folders will be created automatically:</b>
 
-![folders](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/folders.png)
+![folders](https://github.com/vitoriape/auto-mkdir/blob/master/guide/folders.png)
 
 ---
 
