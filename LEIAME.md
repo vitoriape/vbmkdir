@@ -1,5 +1,5 @@
 <h3 align="center"> 
-<img alt="vmkdir banner" src="https://github.com/vitoriape/vbmkdir/blob/mkdir.vb-vpa/images/vbmkdir.banner.png" width="1000" height="200">
+<img alt="vmkdir banner" src="https://github.com/vitoriape/vbmkdir/blob/master/images/vbmkdir.banner.png" width="1000" height="200">
 </h3>
 
 <p align="center">
@@ -46,27 +46,27 @@ $ git clone <https://github.com/vitoriape/vbmkdir>
 
 * <b>1. Verifique se você tem a guia desenvolvedor ativada:</b>
 
-![guiadesenvolvedor](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/guia-desenvolvedor.png)
+![guiadesenvolvedor](https://github.com/vitoriape/auto-mkdir/blob/master/guide/guia-desenvolvedor.png)
 
 
 * <b>2. Abra o editor do VisualBasic:</b>
 
-![visualbasic](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/visual-basic.png)
+![visualbasic](https://github.com/vitoriape/auto-mkdir/blob/master/guide/visual-basic.png)
 
 
 * <b>3. Importe o arquivo makefolder.bas:</b>
 
-![importarquivo](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/importar-arquivo.png)
+![importarquivo](https://github.com/vitoriape/auto-mkdir/blob/master/guide/importar-arquivo.png)
 
 
 * <b>4. Selecione as células com os nomes das pastas:</b>
 
-![selecaopastas](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/selecao-itens.png)
+![selecaopastas](https://github.com/vitoriape/auto-mkdir/blob/master/guide/selecao-itens.png)
 
 
 * <b>5. Rode o script:</b>
 
-![executarsub](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/executar-sub.png)
+![executarsub](https://github.com/vitoriape/auto-mkdir/blob/master/guide/executar-sub.png)
 
 
 
@@ -77,7 +77,7 @@ Dessa forma você pode rodar o script apenas clicando nesse botão. 🔰
 
 * <b>6. As pastas serão criadas automaticamente:</b>
 
-![folders](https://github.com/vitoriape/auto-mkdir/blob/mkdir.vb-vpa/guide/folders.png)
+![folders](https://github.com/vitoriape/auto-mkdir/blob/master/guide/folders.png)
 
 ---
 
