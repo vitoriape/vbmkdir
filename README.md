@@ -27,7 +27,6 @@ Index
    * [Setup](#setup)
    * [Author](#author)
  
----
 
 ### About
 
@@ -53,7 +52,6 @@ For more information about using the statement `Do (...) Loop` and statement `Mk
 - [MkDir Statement](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/mkdir-statement)
 - [Dir Function](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/dir-function)
 
----
 
 ### Setup
 
