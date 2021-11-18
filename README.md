@@ -1,5 +1,5 @@
 <h3 align="center"> 
-<img alt="vmkdir banner" src="./images/vbmkdir.banner.png" width="1000" height="200">
+<img alt="vmkdir banner" src="./images/vbmkdir.banner.png" width="1000" height="350">
 </h3>
 
 <p align="center">
