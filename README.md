@@ -142,7 +142,7 @@ $ git clone <https://github.com/vitoriape/vbmkdir>
 ![folders](./assets/folders.png)
 
 ### Working with Buttons on Excel
-On Excel, you can run a script (macro) using a [form control button or a command button](https://support.microsoft.com/en-us/office/assign-a-macro-to-a-form-or-a-control-button-d58edd7d-cb04-4964-bead-9c72c843a283), or using [shapes](https://answers.microsoft.com/en-us/msoffice/forum/all/assigning-macros-to-shapes/a84b07b2-bc92-4034-8327-024799aa529c#:~:text=Right%2DClick%20on%20the%20shape,shape%2C%20the%20macro%20will%20run.).
+On Excel, you can run a script (macro) using a [form control button or a command button](https://support.microsoft.com/en-us/office/assign-a-macro-to-a-form-or-a-control-button-d58edd7d-cb04-4964-bead-9c72c843a283), or using [shapes](https://answers.microsoft.com/en-us/msoffice/forum/all/assigning-macros-to-shapes/a84b07b2-bc92-4034-8327-024799aa529c#:~:text=Right%2DClick%20on%20the%20shape,shape%2C%20the%20macro%20will%20run).
 
 - Using Shapes
 
@@ -151,6 +151,7 @@ On Excel, you can run a script (macro) using a [form control button or a command
 - Using Buttons
 
 **1. Access the Developer guide and create a `Command Button`:**
+
 ![executarsub](./assets/create-mkdirbtt.png)
 
 **2. Rename it with you want to and double click on the button:**
